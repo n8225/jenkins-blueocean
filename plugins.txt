@@ -1,1 +1,2 @@
-blueocean:1.3.0
+blueocean:1.22
+gitea::1.2.0
